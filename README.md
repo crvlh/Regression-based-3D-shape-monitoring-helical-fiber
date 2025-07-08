@@ -32,7 +32,7 @@ This repository aims to:
 ## Publication
 The codes and videos in this repository correspond to the findings presented in the article:  
 📄 **“Regression-Based 3D Shape Monitoring in a Soft Structure with Helically Embedded Optical Fiber”**  
-📅 Published in: ** JLT??**
+📅 Published in: Under Review
 
 ## Citation
 
