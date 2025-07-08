@@ -4,7 +4,7 @@
 Regression-based 3D shape monitoring using a helical macrobend optical fiber sensor and machine learning models, **Support Vector Regression (SVR)** and **Extreme Gradient Boosting Regression (XGBR)**. This project implements a robust pipeline for inferring three-dimensional deformations at multiple points along a flexible structure. By leveraging spectral signals, the system reconstructs the 3D shape of the structure.
 
 ## Introduction
-This work focuses on monitoring the deformation of a flexible structure by tracking the 3D position of specific points. The sensing mechanism is based on spectral variations caused by macrobending, and these are processed using machine learning regression algorithms.
+This work focuses on monitoring the deformation of a flexible structure by tracking the 3D position of specific points. The sensing mechanism is based on spectral variations caused by macrobending, which are processed using machine learning regression algorithms.
 The workflow includes spectral filtering, dimensionality reduction via **Principal Component Analysis (PCA)**, hyperparameter optimization with **K-Fold Cross-Validation** and **Grid Search**, and final evaluation over test data, including **3D reconstructions** of the structure for multiple test cases.
 
 ![image](https://github.com/user-attachments/assets/300f4ba9-641a-4cf0-a27f-a1eb9d2fcc77)
@@ -40,7 +40,7 @@ If you use this code or the results in your research, please cite the correspond
 
 ## Acknowledgment
 
-This work was carried out by LabLaser and the Postgraduate Program in Electrical and Industrial Computing Engineering (CPGEI) at UTFPR.
+This work was carried out by LabLaser and the Graduate Program in Electrical and Industrial Informatics (CPGEI) at UTFPR.
 
 ## Contact
 
