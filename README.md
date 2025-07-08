@@ -38,6 +38,10 @@ The codes and videos in this repository correspond to the findings presented in 
 
 If you use this code or the results in your research, please cite the corresponding article once it is published.
 
+## Acknowledgment
+
+This work was carried out by LabLaser and the Postgraduate Program in Electrical and Industrial Computing Engineering (CPGEI) at UTFPR.
+
 ## Contact
 
 For questions or collaboration opportunities, please contact:
